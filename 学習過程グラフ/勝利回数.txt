@@ -1,0 +1,726 @@
+﻿1回目
+勝ち:6/100000 負け:0
+2回目
+勝ち:75/250000 負け:1/250000
+今のところ約40万回
+約20~30万回で勝ち始める, epsilon 0.3->0.2
+
+報酬変更
+勝利 150 -> 10
+負け -100 -> -10
+打ち間違い -100 -> -10
+引き分け 100 -> 0
+
+10000回ごとに集計
+epsilon 0.3
+
+試行回数1
+試行回数2
+Enemy checkmate!
+試行回数3
+Agent checkmate!
+試行回数4
+Agent checkmate!
+試行回数5
+Agent checkmate!
+試行回数6
+Agent checkmate!
+試行回数7
+Agent checkmate!
+Agent checkmate!
+Enemy checkmate!
+試行回数8
+試行回数9
+試行回数10
+
+勝ち6
+負け2
+
+
+1000回ごとに集計
+epsilon 0.2
+
+試行回数1
+試行回数2
+試行回数3
+Agent checkmate!
+Enemy checkmate!
+試行回数4
+試行回数5
+試行回数6
+試行回数7
+試行回数8
+試行回数9
+Agent checkmate!
+試行回数10
+試行回数11
+試行回数12
+Agent checkmate!
+試行回数13
+試行回数14
+試行回数15
+試行回数16
+Enemy checkmate!
+試行回数17
+試行回数18
+試行回数19
+試行回数20
+試行回数21
+試行回数22
+試行回数23
+試行回数24
+試行回数25
+試行回数26
+Agent checkmate!
+試行回数27
+Enemy checkmate!
+試行回数28
+試行回数29
+試行回数30
+Agent checkmate!
+試行回数31
+Agent checkmate!
+Agent checkmate!
+試行回数32
+試行回数33
+Agent checkmate!
+Agent checkmate!
+試行回数34
+試行回数35
+試行回数36
+試行回数37
+試行回数38
+試行回数39
+試行回数40
+試行回数41
+試行回数42
+試行回数43
+試行回数44
+試行回数45
+試行回数46
+試行回数47
+試行回数48
+試行回数49
+試行回数50
+試行回数51
+Enemy checkmate!
+試行回数52
+Agent checkmate!
+試行回数53
+試行回数54
+Agent checkmate!
+Agent checkmate!
+試行回数55
+試行回数56
+試行回数57
+試行回数58
+試行回数59
+試行回数60
+試行回数61
+試行回数62
+試行回数63
+試行回数64
+試行回数65
+Agent checkmate!
+試行回数66
+試行回数67
+試行回数68
+試行回数69
+試行回数70
+試行回数71
+試行回数72
+試行回数73
+Agent checkmate!
+試行回数74
+試行回数75
+試行回数76
+Agent checkmate!
+試行回数77
+試行回数78
+試行回数79
+試行回数80
+試行回数81
+試行回数82
+Agent checkmate!
+Agent checkmate!
+試行回数83
+試行回数84
+試行回数85
+Agent checkmate!
+試行回数86
+Agent checkmate!
+試行回数87
+試行回数88
+試行回数89
+試行回数90
+試行回数91
+試行回数92
+試行回数93
+試行回数94
+試行回数95
+試行回数96
+試行回数97
+試行回数98
+試行回数99
+試行回数100
+
+勝ち19
+負け3
+
+試行回数1
+試行回数2
+試行回数3
+試行回数4
+試行回数5
+試行回数6
+試行回数7
+試行回数8
+試行回数9
+試行回数10
+Agent checkmate!
+Agent checkmate!
+試行回数11
+試行回数12
+試行回数13
+Enemy checkmate!
+試行回数14
+試行回数15
+試行回数16
+試行回数17
+試行回数18
+Agent checkmate!
+試行回数19
+Agent checkmate!
+試行回数20
+試行回数21
+Agent checkmate!
+試行回数22
+Agent checkmate!
+試行回数23
+試行回数24
+試行回数25
+Agent checkmate!
+Agent checkmate!
+試行回数26
+試行回数27
+試行回数28
+試行回数29
+試行回数30
+試行回数31
+Agent checkmate!
+試行回数32
+Agent checkmate!
+試行回数33
+試行回数34
+Agent checkmate!
+Agent checkmate!
+試行回数35
+Agent checkmate!
+試行回数36
+試行回数37
+試行回数38
+Agent checkmate!
+試行回数39
+試行回数40
+Enemy checkmate!
+試行回数41
+試行回数42
+試行回数43
+試行回数44
+試行回数45
+試行回数46
+試行回数47
+試行回数48
+試行回数49
+Enemy checkmate!
+試行回数50
+試行回数51
+試行回数52
+試行回数53
+試行回数54
+試行回数55
+試行回数56
+Agent checkmate!
+試行回数57
+試行回数58
+試行回数59
+試行回数60
+試行回数61
+試行回数62
+試行回数63
+試行回数64
+試行回数65
+試行回数66
+試行回数67
+試行回数68
+試行回数69
+試行回数70
+Agent checkmate!
+試行回数71
+Agent checkmate!
+Agent checkmate!
+試行回数72
+試行回数73
+試行回数74
+試行回数75
+試行回数76
+試行回数77
+試行回数78
+試行回数79
+Enemy checkmate!
+試行回数80
+試行回数81
+試行回数82
+Agent checkmate!
+試行回数83
+試行回数84
+試行回数85
+試行回数86
+試行回数87
+試行回数88
+試行回数89
+試行回数90
+試行回数91
+Agent checkmate!
+Agent checkmate!
+試行回数92
+Agent checkmate!
+Enemy checkmate!
+試行回数93
+Agent checkmate!
+試行回数94
+試行回数95
+試行回数96
+Agent checkmate!
+試行回数97
+Agent checkmate!
+試行回数98
+試行回数99
+試行回数100
+
+勝ち25
+負け5
+
+試行回数1
+Agent checkmate!
+Agent checkmate!
+試行回数2
+試行回数3
+Agent checkmate!
+試行回数4
+試行回数5
+Agent checkmate!
+試行回数6
+Agent checkmate!
+Agent checkmate!
+Agent checkmate!
+試行回数7
+Agent checkmate!
+試行回数8
+試行回数9
+試行回数10
+Agent checkmate!
+試行回数11
+Agent checkmate!
+Agent checkmate!
+試行回数12
+試行回数13
+試行回数14
+試行回数15
+Agent checkmate!
+試行回数16
+Agent checkmate!
+Agent checkmate!
+試行回数17
+試行回数18
+試行回数19
+試行回数20
+試行回数21
+試行回数22
+Agent checkmate!
+Agent checkmate!
+Agent checkmate!
+試行回数23
+試行回数24
+試行回数25
+Agent checkmate!
+試行回数26
+試行回数27
+試行回数28
+Agent checkmate!
+試行回数29
+試行回数30
+試行回数31
+Agent checkmate!
+試行回数32
+試行回数33
+試行回数34
+Agent checkmate!
+試行回数35
+Agent checkmate!
+試行回数36
+試行回数37
+Agent checkmate!
+試行回数38
+試行回数39
+Agent checkmate!
+試行回数40
+試行回数41
+試行回数42
+Agent checkmate!
+試行回数43
+Agent checkmate!
+Enemy checkmate!
+試行回数44
+Agent checkmate!
+試行回数45
+Agent checkmate!
+試行回数46
+試行回数47
+試行回数48
+Agent checkmate!
+試行回数49
+試行回数50
+試行回数51
+試行回数52
+Agent checkmate!
+Agent checkmate!
+試行回数53
+Agent checkmate!
+試行回数54
+試行回数55
+試行回数56
+試行回数57
+試行回数58
+試行回数59
+試行回数60
+Agent checkmate!
+試行回数61
+試行回数62
+試行回数63
+Agent checkmate!
+試行回数64
+試行回数65
+試行回数66
+試行回数67
+試行回数68
+Agent checkmate!
+試行回数69
+試行回数70
+試行回数71
+試行回数72
+試行回数73
+試行回数74
+試行回数75
+試行回数76
+試行回数77
+Enemy checkmate!
+試行回数78
+試行回数79
+試行回数80
+試行回数81
+試行回数82
+試行回数83
+Agent checkmate!
+試行回数84
+試行回数85
+試行回数86
+試行回数87
+試行回数88
+試行回数89
+試行回数90
+試行回数91
+Agent checkmate!
+試行回数92
+試行回数93
+試行回数94
+試行回数95
+試行回数96
+Agent checkmate!
+試行回数97
+試行回数98
+試行回数99
+試行回数100
+
+勝ち39
+負け2
+
+試行回数1
+Agent checkmate!
+試行回数2
+試行回数3
+Enemy checkmate!
+Agent checkmate!
+試行回数4
+Agent checkmate!
+Agent checkmate!
+試行回数5
+試行回数6
+Enemy checkmate!
+試行回数7
+試行回数8
+Agent checkmate!
+試行回数9
+試行回数10
+試行回数11
+試行回数12
+試行回数13
+Agent checkmate!
+試行回数14
+Agent checkmate!
+試行回数15
+試行回数16
+Agent checkmate!
+試行回数17
+Agent checkmate!
+試行回数18
+試行回数19
+Agent checkmate!
+Agent checkmate!
+試行回数20
+試行回数21
+試行回数22
+試行回数23
+Agent checkmate!
+Agent checkmate!
+試行回数24
+試行回数25
+Agent checkmate!
+試行回数26
+試行回数27
+試行回数28
+試行回数29
+Enemy checkmate!
+試行回数30
+試行回数31
+試行回数32
+試行回数33
+試行回数34
+試行回数35
+試行回数36
+試行回数37
+試行回数38
+試行回数39
+試行回数40
+試行回数41
+試行回数42
+試行回数43
+Agent checkmate!
+Agent checkmate!
+試行回数44
+試行回数45
+試行回数46
+試行回数47
+Agent checkmate!
+試行回数48
+Agent checkmate!
+試行回数49
+試行回数50
+試行回数51
+試行回数52
+試行回数53
+試行回数54
+試行回数55
+試行回数56
+Enemy checkmate!
+試行回数57
+試行回数58
+試行回数59
+Agent checkmate!
+試行回数60
+Agent checkmate!
+試行回数61
+試行回数62
+試行回数63
+試行回数64
+試行回数65
+Agent checkmate!
+Agent checkmate!
+試行回数66
+Agent checkmate!
+試行回数67
+Agent checkmate!
+試行回数68
+試行回数69
+試行回数70
+Agent checkmate!
+試行回数71
+試行回数72
+Agent checkmate!
+Agent checkmate!
+試行回数73
+Agent checkmate!
+試行回数74
+Agent checkmate!
+試行回数75
+Agent checkmate!
+試行回数76
+試行回数77
+試行回数78
+試行回数79
+試行回数80
+Agent checkmate!
+Agent checkmate!
+試行回数81
+試行回数82
+試行回数83
+Enemy checkmate!
+試行回数84
+試行回数85
+Agent checkmate!
+試行回数86
+試行回数87
+Agent checkmate!
+試行回数88
+試行回数89
+Enemy checkmate!
+Agent checkmate!
+試行回数90
+試行回数91
+試行回数92
+試行回数93
+試行回数94
+試行回数95
+試行回数96
+試行回数97
+試行回数98
+Agent checkmate!
+試行回数99
+試行回数100
+
+勝ち36
+負け6
+
+試行回数1
+Agent checkmate!
+試行回数2
+試行回数3
+試行回数4
+試行回数5
+Agent checkmate!
+試行回数6
+Agent checkmate!
+Agent checkmate!
+試行回数7
+試行回数8
+試行回数9
+試行回数10
+試行回数11
+試行回数12
+試行回数13
+試行回数14
+試行回数15
+試行回数16
+Agent checkmate!
+Agent checkmate!
+Agent checkmate!
+試行回数17
+試行回数18
+Agent checkmate!
+試行回数19
+試行回数20
+試行回数21
+試行回数22
+試行回数23
+試行回数24
+試行回数25
+試行回数26
+Agent checkmate!
+試行回数27
+試行回数28
+試行回数29
+Agent checkmate!
+試行回数30
+Agent checkmate!
+試行回数31
+試行回数32
+試行回数33
+試行回数34
+試行回数35
+試行回数36
+試行回数37
+試行回数38
+Agent checkmate!
+Agent checkmate!
+試行回数39
+試行回数40
+試行回数41
+試行回数42
+試行回数43
+Agent checkmate!
+試行回数44
+Agent checkmate!
+試行回数45
+試行回数46
+Agent checkmate!
+試行回数47
+試行回数48
+Enemy checkmate!
+試行回数49
+試行回数50
+Agent checkmate!
+Enemy checkmate!
+試行回数51
+試行回数52
+試行回数53
+試行回数54
+試行回数55
+試行回数56
+Agent checkmate!
+Agent checkmate!
+試行回数57
+試行回数58
+試行回数59
+試行回数60
+試行回数61
+試行回数62
+試行回数63
+試行回数64
+試行回数65
+試行回数66
+試行回数67
+Enemy checkmate!
+試行回数68
+試行回数69
+試行回数70
+試行回数71
+Agent checkmate!
+試行回数72
+Agent checkmate!
+試行回数73
+Agent checkmate!
+試行回数74
+Agent checkmate!
+試行回数75
+試行回数76
+試行回数77
+試行回数78
+Agent checkmate!
+試行回数79
+Agent checkmate!
+試行回数80
+試行回数81
+試行回数82
+試行回数83
+試行回数84
+試行回数85
+試行回数86
+試行回数87
+試行回数88
+試行回数89
+試行回数90
+試行回数91
+試行回数92
+試行回数93
+Agent checkmate!
+試行回数94
+試行回数95
+試行回数96
+試行回数97
+試行回数98
+Agent checkmate!
+試行回数99
+試行回数100
+
+勝ち27
+負け3
